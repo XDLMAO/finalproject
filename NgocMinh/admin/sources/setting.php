@@ -125,10 +125,6 @@
 			$response['messages'][] = 'Số điện thoại không hợp lệ';
 		}
 
-		if(!empty($option['zalo']) && !$func->isPhone($option['zalo']))
-		{
-			$response['messages'][] = 'Zalo không hợp lệ';
-		}
 
 		if(empty($option['website']))
 		{
