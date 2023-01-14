@@ -1,0 +1,45 @@
+App
+    Validation form
+    Lazys
+    Load name input file
+    Back to top
+    Alt images
+    Menu
+        Menu remove empty ul
+        Menu fixed
+        Mmenu
+    Tools
+    Popup
+    Wow
+    Pagings
+        Products
+        Categories
+    Ticker scroll
+    Photobox
+    Comment
+    DatePicker
+    Search
+    Videos
+    Owl Data
+    Search
+    Videos
+        Fancybox
+    Owl Data
+    Owl Page
+    Dom Change
+        Video Fotorama
+        Video Select
+        Chat Facebook
+    Cart
+        Add
+        Delete
+        Counter
+        Quantity
+        City
+        District
+        Ward
+        Payments
+        Colors
+        Sizes
+        Quantity detail page
+    Ready
